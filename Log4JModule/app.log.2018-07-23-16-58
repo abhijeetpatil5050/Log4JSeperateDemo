@@ -1,0 +1,15 @@
+[FATAL] 2018-07-23 16:58:11,565 com.abp.pkg1.Cls1 main - This is fatal msg
+[ERROR] 2018-07-23 16:58:11,565 com.abp.pkg1.Cls1 main - This is error msg
+[WARN] 2018-07-23 16:58:11,565 com.abp.pkg1.Cls1 main - This is warn msg
+[INFO] 2018-07-23 16:58:11,565 com.abp.pkg1.Cls1 main - This is info msg
+[DEBUG] 2018-07-23 16:58:11,565 com.abp.pkg1.Cls1 main - This is debug msg
+[FATAL] 2018-07-23 16:58:31,565 com.abp.pkg1.Cls1 main - This is fatal msg
+[ERROR] 2018-07-23 16:58:31,565 com.abp.pkg1.Cls1 main - This is error msg
+[WARN] 2018-07-23 16:58:31,565 com.abp.pkg1.Cls1 main - This is warn msg
+[INFO] 2018-07-23 16:58:31,565 com.abp.pkg1.Cls1 main - This is info msg
+[DEBUG] 2018-07-23 16:58:31,565 com.abp.pkg1.Cls1 main - This is debug msg
+[FATAL] 2018-07-23 16:58:51,565 com.abp.pkg1.Cls1 main - This is fatal msg
+[ERROR] 2018-07-23 16:58:51,565 com.abp.pkg1.Cls1 main - This is error msg
+[WARN] 2018-07-23 16:58:51,565 com.abp.pkg1.Cls1 main - This is warn msg
+[INFO] 2018-07-23 16:58:51,565 com.abp.pkg1.Cls1 main - This is info msg
+[DEBUG] 2018-07-23 16:58:51,565 com.abp.pkg1.Cls1 main - This is debug msg
